@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.549,C:\Users\Tatiana\YandexDisk\cnSync\rendzu\Unit1.pas=C:\Users\Tatiana\YandexDisk\cnSync\rendzu\PatternReader.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,=C:\Users\Tatiana\YandexDisk\cnSync\rendzu\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\Tatiana\YandexDisk\cnSync\rendzu\Unit1.pas=C:\Users\Tatiana\YandexDisk\cnSync\rendzu\Pobot.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\Users\Tatiana\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Tatiana\Desktop\rendzu\rendzu.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\Tatiana\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Tatiana\Desktop\rendzu\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.309,=C:\Users\Tatiana\Desktop\rendzu\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,C:\Users\Tatiana\Desktop\rendzu\Unit1.pas=C:\Users\Tatiana\Desktop\rendzu\GraphicsControl.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,=C:\Users\Tatiana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,=C:\Users\Tatiana\YandexDisk\cnSync\rendzu\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\Tatiana\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Tatiana\Desktop\rendzu\main.pas</Transaction>
+  </Transactions>
+</BorlandProject>
